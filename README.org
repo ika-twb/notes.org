@@ -1,2 +1,2 @@
 * notes.org
-notes in emacs
+notes from the undermacs
